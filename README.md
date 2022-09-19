@@ -42,7 +42,5 @@ and type this command to start the app `npm start`
 
 # support
 
----
-
 <p><a href="https://www.buymeacoffee.com/mark5dev"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="mark5dev" /></a></p><br><br><br>
 <br>
